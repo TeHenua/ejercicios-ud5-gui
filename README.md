@@ -1,4 +1,4 @@
-# PROG2015
+# PROG2016
 
 Ejercicios sobre construcción de GUIs en Java con Swing.
 
